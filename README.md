@@ -1,5 +1,5 @@
 # 💫 whoami :
-| Intern @ CCW Tamil Nadu Police | <br>|Web Pentester| <br>"OSCP Candidate" <br>| Programmer | <br>"CTF Player" @ HTB <br>Office Bearer & Student at CSI College of Engineering, Ooty
+| Intern @ CCW Tamil Nadu Police | <br>|BuG hUnTeR | Web Pentester| <br>| Programmer | <br>Expert @ Portswigger <br>Office Bearer & Student at CSI College of Engineering, Ooty
 
 
 ## 🌐 Socials:
