@@ -1,6 +1,7 @@
 # 💫 whoami :
-RANDOM DEV BY MORNING AND HUNTER BY MIDNIGHT  ![hacker](https://github.com/user-attachments/assets/cae5b4e5-3578-4cc7-bb1e-769a1b0f6c49)
 
+![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/e7b7e1b2-b2fe-4e89-991f-77e31e547117)
+                                                                        RANDOM DEV BY MORNING AND HUNTER BY MIDNIGHT
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gokul-Krishnan-V-R)
